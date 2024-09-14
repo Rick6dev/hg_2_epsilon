@@ -29,19 +29,19 @@ PULL_REQUEST_TEMPLATE
 - [ ] Bravo
 - [ ] Charlie
 - [ ] Delta
-- [ ] Echo
+- [x] Echo
 
 # Tecnología
 
-- [ ] HTML
-- [ ] Json
-- [ ] Archivo plano (.txt)
+- [x] HTML
+- [x] Json
+- [x] Archivo plano (.txt)
 - [ ] Javascript
 - [ ] Markdown / .md
 
 # Seleccione el tipo de actividad
 
-- [ ] Feature
+- [x] Feature
 - [ ] Changes
 - [ ] Hotfix
 - [ ] Refactor
